@@ -36,4 +36,3 @@ const myList = new LinkedList([
 for(let item of myList) {
     console.log(item)
 }
-console.log(myList.firstItem())
